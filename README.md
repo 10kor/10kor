@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=auto&section=header&text=Welcome&fontAlignY=50&fontSize=70&desc=Jipsa's%20Git%20Page&descAlign=70" />
 
- <a href="https://velog.io/@pdi9450" target="_blank"><img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ <a href="https://velog.io/@pdi9450" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
  <a href="https://velog.io/@pdi9450" target="_blank"> <img src="https://img.shields.io/badge/Velog#20C997?style=for-the-badge&logo=Velog&logoColor=black"></a>
 
 
