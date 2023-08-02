@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=auto&section=header&text=Welcome&fontAlignY=50&fontSize=70&desc=Jipsa's%20Git%20Page&descAlign=70" />
 <br/>
 😆 SNS
+<br/>
 <a href="https://velog.io/@pdi9450" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/park.di" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@jipsa" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-<br/><br/>
+<br/>
 🍖 Used Tech Stack
 <br/>
 <img src="https://img.shields.io/badge/java-4479A1?style=for-the-badge&logo=java&logoColor=black">
