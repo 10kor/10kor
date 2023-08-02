@@ -4,7 +4,7 @@
 </div>
 
 <div align=center>
-  <h1>😆 Contact & SNS</h1>
+  <h2>😆 Contact & SNS 😆</h2>
   <br/>
   <img src="https://img.shields.io/badge/pdi9450@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
   <img src="https://img.shields.io/badge/pdi9450-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
@@ -19,7 +19,7 @@
 <br/>
 
 <div align=center>
-  🍖 Used Tech Stack
+  <h2>🍖 Used Tech Stack 🍖</h2>
   <br/>
   <img src="https://img.shields.io/badge/java-4479A1?style=for-the-badge&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
@@ -34,7 +34,7 @@
 <br/>
 
 <div align=center>
-  🦴 Used at least Once
+  <h2>🦴 Used at least Once 🦴</h2>
   <br/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
