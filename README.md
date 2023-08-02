@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=auto&section=header&text=Welcome&fontAlignY=30&fontSize=70&desc=Jipsa's%20Git%20Page&descAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=auto&section=header&text=Welcome&fontAlignY=40&fontSize=70&desc=Jipsa's%20Git%20Page&descAlign=70" />
 
 <!--
 **10kor/10kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
