@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=auto&section=header&text=Welcome&fontAlignY=40&fontSize=70&desc=Jipsa's%20Git%20Page&descAlign=80" />
 </div>
 
-<br/><br/>
-
 <div align=center>
   😆 Contact & SNS
   <br/>
