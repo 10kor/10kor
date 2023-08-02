@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/@jipsa" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align=center>
   🍖 Used Tech Stack
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black">
 </div>
 
-<br/><br/>
+<br/>
 
 <div align=center>
   🦴 Used at least Once
