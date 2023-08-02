@@ -2,8 +2,8 @@
 <br/>
 😆 Contact & SNS
 <br/>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">pdi9450@gmail.com
-<img src="https://img.shields.io/badge/kakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">pdi9450
+<img src="https://img.shields.io/badge/pdi9450@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=black">pdi9450@gmail.com
+<img src="https://img.shields.io/badge/pdi9450-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">pdi9450
 <a href="https://velog.io/@pdi9450" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/park.di" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@jipsa" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
