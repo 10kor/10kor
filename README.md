@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div align=center>
-  <div style="font-size: 300rem;">
+  <div style="font-size: 300px;">
     😆 Contact & SNS
   </div>
 
