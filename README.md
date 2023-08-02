@@ -2,7 +2,7 @@
 <br/>
 😆 Contact & SNS
 <br/>
-<div>
+<div align=center>
   <img src="https://img.shields.io/badge/pdi9450@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
   <img src="https://img.shields.io/badge/pdi9450-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
 </div>
