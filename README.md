@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=black">
-  <img src="https://img.shields.io/badge/timeleaf-6DB33F?style=for-the-badge&logo=timeleaf&logoColor=black">
 </div>
 
 <br/><br/>
